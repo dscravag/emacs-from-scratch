@@ -9,3 +9,19 @@
 
 # Undo-tree save-files
 *.~undo-tree
+
+# my git ignore for emacs config
+.cache
+.dap-breakpoints
+.lsp-session-v1
+.mc-lists.el
+eln-cache
+auto-save-list
+backup
+bookmarks
+org-persist
+recentf
+snippets
+straight
+transient
+var
